@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\bin\Debug\5smallestmultiple.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\bin\Debug\5smallestmultiple.exe
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\bin\Debug\5smallestmultiple.pdb
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\obj\Debug\5smallestmultiple.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\obj\Debug\5smallestmultiple.exe
+c:\users\anika\documents\visual studio 2013\Projects\5smallestmultiple\5smallestmultiple\obj\Debug\5smallestmultiple.pdb
